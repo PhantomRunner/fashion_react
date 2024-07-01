@@ -1,0 +1,25 @@
+.voucher_content{
+    display: flex;
+    align-items: center;
+}
+
+#voucher_section{
+    width: 80%;
+    margin-bottom: 120px;
+}
+
+.voucher_title{
+    font-size: 48px;
+    font-weight: 900;
+    line-height: 72px;
+    letter-spacing: 0.06em;
+    padding-bottom: 40px;
+}
+
+.body{
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 35px;
+    letter-spacing: -0.04em;
+    padding-bottom: 40px;
+}
